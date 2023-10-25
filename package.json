@@ -2,7 +2,13 @@
   "name": "@beginner-task/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "ng": "ng",
+    "start": "nx run beginner-task:serve:development",
+    "build": "nx build",
+    "watch": "nx build --watch --configuration development",
+    "test": "nx test"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~16.2.0",
