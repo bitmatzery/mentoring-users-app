@@ -1,0 +1,20 @@
+<ng-container>
+  <div class="container">
+    <h1>Список Пользователей:</h1>
+    <div class="cards">
+      <div class="card" *ngFor="let user of vm.users">
+        <div class="card__body">
+          <p>Имя:</p>
+          <span>{{ user.name }}</span>
+          <p>Эл. почта:</p>
+          <span>{{ user.email }}</span>
+          <p>Номер телефона:</p>
+          <span>{{ user.phone }}</span>
+          <p>Компания:</p>
+          <span>{{ user.company.name }}</span>
+          <button (click)="OnDeleteUser(user.id)">Удалить пользователя</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</ng-container>
