@@ -1,4 +1,6 @@
-<ng-container *ngIf="users$ | async as users">
-  <users-list-ui [vm]="{users}" (deleteUser)="OnDeleteUser($event)">
-  </users-list-ui>
-</ng-container>
+@if ('users$ | ngrxPush as users') {
+  <ng-container *ngIf="users$ | ngrxPush as users">
+    <users-list-ui [vm]="{ users }" (deleteUser)="OnDeleteUser($event)">
+    </users-list-ui>
+  </ng-container>
+}
