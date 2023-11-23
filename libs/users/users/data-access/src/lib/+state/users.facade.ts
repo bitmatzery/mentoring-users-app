@@ -3,6 +3,7 @@ import { select, Store } from '@ngrx/store';
 
 import * as UsersActions from './users.actions';
 import * as UsersSelectors from './users.selectors';
+import { UsersFilter } from './users.reducer';
 
 @Injectable()
 export class UsersFacade {
@@ -13,8 +14,15 @@ export class UsersFacade {
    * and expose them as observables through the facade.
    */
   loaded$ = this.store.pipe(select(UsersSelectors.selectUsersLoaded));
-  allUsers$ = this.store.pipe(select(UsersSelectors.selectAllUsers));
+  // allUsers$ = this.store.pipe(select(UsersSelectors.selectAllUsers));
   selectedUsers$ = this.store.pipe(select(UsersSelectors.selectEntity));
+
+  public readonly filter$ = this.store.pipe(
+    select(UsersSelectors.selectUsersFilter),
+  );
+  public readonly allUsers$ = this.store.pipe(
+    select(UsersSelectors.selectFilteredUsers),
+  );
 
   /**
    * Use the initialization action to perform one
@@ -22,5 +30,9 @@ export class UsersFacade {
    */
   init() {
     this.store.dispatch(UsersActions.initUsers());
+  }
+
+  filterUser(filterParams: UsersFilter) {
+    this.store.dispatch(UsersActions.filterUsers({ filterParams }));
   }
 }

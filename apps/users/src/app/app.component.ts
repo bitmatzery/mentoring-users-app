@@ -1,11 +1,11 @@
-import {Component} from '@angular/core';
+import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
-import {FooterComponent, HeaderComponent} from "@users/core/ui/layout";
-
+import { PushPipe } from '@ngrx/component';
+import { FooterComponent, HeaderComponent } from '@users/core/ui/layout';
 
 @Component({
   standalone: true,
-  imports: [RouterModule, HeaderComponent, FooterComponent],
+  imports: [RouterModule, HeaderComponent, FooterComponent, PushPipe],
   providers: [],
   selector: 'users-root',
   templateUrl: './app.component.html',

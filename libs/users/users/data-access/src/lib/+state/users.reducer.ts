@@ -6,10 +6,18 @@ import { UsersEntity } from './users.models';
 
 export const USERS_FEATURE_KEY = 'users';
 
+export type UsersFilter = {
+  name: string;
+  email: string;
+  company: string;
+  phone: string;
+};
+
 export interface UsersState extends EntityState<UsersEntity> {
   selectedId?: string | number; // which Users record has been selected
   loaded: boolean; // has the Users list been loaded
   error?: string | null; // last known error (if any)
+  filter: UsersFilter;
 }
 
 export interface UsersPartialState {
@@ -22,6 +30,7 @@ export const usersAdapter: EntityAdapter<UsersEntity> =
 export const initialUsersState: UsersState = usersAdapter.getInitialState({
   // set initial required properties
   loaded: false,
+  filter: { name: '', email: '', company: '', phone: '' },
 });
 
 const reducer = createReducer(
@@ -32,9 +41,16 @@ const reducer = createReducer(
     error: null,
   })),
   on(UsersActions.loadUsersSuccess, (state, { users }) =>
-    usersAdapter.setAll(users, { ...state, loaded: true })
+    usersAdapter.setAll(users, { ...state, loaded: true }),
   ),
-  on(UsersActions.loadUsersFailure, (state, { error }) => ({ ...state, error }))
+  on(UsersActions.loadUsersFailure, (state, { error }) => ({
+    ...state,
+    error,
+  })),
+  on(UsersActions.filterUsers, (state, { filterParams }) => ({
+    ...state,
+    filter: filterParams,
+  })),
 );
 
 export function usersReducer(state: UsersState | undefined, action: Action) {

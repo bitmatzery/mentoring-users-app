@@ -1,0 +1,874 @@
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m                      [2m | [22mvendor       [2m | [22m  [96m3.08 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mpolyfills.js[39m[37m                   [2m | [22mpolyfills    [2m | [22m[96m333.16 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mstyles.css, styles.js[39m[37m          [2m | [22mstyles       [2m | [22m[96m230.97 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                        [2m | [22mmain         [2m | [22m [96m35.44 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime      [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                              [2m | [22m[1mInitial Total[22m[2m | [22m  [1m3.68 MB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home   [2m | [22m [96m73.39 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:07:39.735Z[39m[37m[22m - Hash: [1m[37m7327ab8f90256d7c[39m[37m[22m - Time: [1m[37m25547[39m[37m[22mms[0m[39m
+[37m[39m
+[37m** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **[39m
+[37m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m71.47 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:07:52.324Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1923[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:10:45.658Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m2123[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:11:02.877Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1298[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:11:15.764Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1230[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:11:23.441Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1209[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:11:28.038Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m854[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:11:40.046Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1933[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:12:01.461Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1210[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:12:12.865Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1220[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:12:46.561Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1025[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:12:59.523Z[39m[37m[22m - Hash: [1m[37mb1c0ce80bf8947eb[39m[37m[22m - Time: [1m[37m1145[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m13[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m13[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m13[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m13[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:13:18.706Z[39m[37m[22m - Hash: [1m[37md7b3ba4a50a6cca2[39m[37m[22m - Time: [1m[37m1193[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m10[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m10[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m10[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m10[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m  [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m         [2m | [22mruntime[2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:13:36.661Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m2126[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:13:38.012Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m834[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:20:52.958Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1330[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:20:58.837Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m844[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:22:27.285Z[39m[37m[22m - Hash: [1m[37m7791adc89becf05a[39m[37m[22m - Time: [1m[37m1292[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m71.47 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:23:04.050Z[39m[37m[22m - Hash: [1m[37mb02da678cc52cffb[39m[37m[22m - Time: [1m[37m4330[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m28[0m:[93m10[0m - [91merror[0m[90m TS7008: [0mMember 'readonly' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m28[0m   public readonly[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m71.48 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:23:16.674Z[39m[37m[22m - Hash: [1m[37m7d80c7e721f43527[39m[37m[22m - Time: [1m[37m1237[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m30[0m:[93m3[0m - [91merror[0m[90m TS2304: [0mCannot find name 'OnDeleteUser'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m30[0m   OnDeleteUser(userId: number) {[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m30[0m:[93m16[0m - [91merror[0m[90m TS2304: [0mCannot find name 'userId'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m30[0m   OnDeleteUser(userId: number) {[39m[22m
+[1m[31m[7m  [0m [91m               ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/use[39m[22m[1m[31mrs/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m30[0m:[93m22[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m30[0m   OnDeleteUser(userId: number) {[39m[22m
+[1m[31m[7m  [0m [91m                     ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m30[0m:[93m24[0m - [91merror[0m[90m TS2693: [0m'number' only refers to a type, but is being used as a value here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m30[0m   OnDeleteUser(userId: number) {[39m[22m
+[1m[31m[7m  [0m [91m                       ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m30[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m30[0m   OnDeleteUser(userId: number) {[39m[22m
+[1m[31m[7m  [0m [91m                               ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m31[0m:[93m5[0m - [91merror[0m[90m TS2532: [0mObject is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m31[0m     this.componentStore.patchState((state: UsersListState) => ({[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m32[0m:[93m55[0m - [91merror[0m[90m TS2552: [0mCannot find name 'userId'. Did you mean 'user'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m32[0m       users: state.users.filter((user) => user.id !== userId),[39m[22m
+[1m[31m[7m  [0m [91m                                                      ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m32[0m:[93m34[0m[39m[22m
+[1m[31m    [7m32[0m       users: state.users.filter((user) => user.id !== userId),[39m[22m
+[1m[31m    [7m  [0m [96m                                 ~~~~[0m[39m[22m
+[1m[31m    'user' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlib[39m[22m[1m[31ms/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m35[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m35[0m }[39m[22m
+[1m[31m[7m  [0m [91m~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m71.48 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:23:33.115Z[39m[37m[22m - Hash: [1m[37m1d43e2d1bf2e5122[39m[37m[22m - Time: [1m[37m1848[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m71.48 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:23:49.456Z[39m[37m[22m - Hash: [1m[37mc38fab4af1044b59[39m[37m[22m - Time: [1m[37m985[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:24:05.968Z[39m[37m[22m - Hash: [1m[37mc38fab4af1044b59[39m[37m[22m - Time: [1m[37m656[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m71.49 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:24:52.599Z[39m[37m[22m - Hash: [1m[37m21fa1f48c99a617b[39m[37m[22m - Time: [1m[37m2621[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m[96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m71.49 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-18T12:24:55.799Z[39m[37m[22m - Hash: [1m[37m890d6bdfc906b810[39m[37m[22m - Time: [1m[37m1479[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mInvalid ICU message. Missing '}'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m12[0m:[93m1[0m - [91merror[0m[90m NG5002: [0mUnexpected character "EOF" (Do you have an unescaped "{" in your template? Use "{{ '{' }}") to escape it.)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m12[0m [39m[22m
+[1m[31m[7m  [0m [91m[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m19[0m:[93m16[0m[39m[22m
+[1m[31m    [7m19[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m

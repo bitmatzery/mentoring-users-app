@@ -1,6 +1,16 @@
 @if ('users$ | ngrxPush as users') {
-  <ng-container *ngIf="users$ | ngrxPush as users">
-    <users-list-ui [vm]="{ users }" (deleteUser)="OnDeleteUser($event)">
+  <!-- <ng-container *ngIf="users$ | ngrxPush as users"> -->
+  <ng-container
+    *ngrxLet="{
+      users: users$,
+      filterParams: filterParams$
+    } as vm"
+  >
+    <users-list-ui
+      [vm]="vm"
+      (deleteUser)="OnDeleteUser($event)"
+      (filterUsers)="onFilterUsers($event)"
+    >
     </users-list-ui>
   </ng-container>
 }

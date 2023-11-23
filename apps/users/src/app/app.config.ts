@@ -9,8 +9,14 @@ import { API_URL } from '@users/core/http';
 import { environment } from '../environments/environment.development';
 import { provideEffects } from '@ngrx/effects';
 import { provideState, provideStore } from '@ngrx/store';
-import { USERS_FEATURE_KEY, UsersFacade, usersReducer, userEffects } from '@users/users/data-access';
-import { provideStoreDevtools } from '@ngrx/store-devtools'
+import {
+  USERS_FEATURE_KEY,
+  UsersFacade,
+  usersReducer,
+  userEffects,
+} from '@users/users/data-access';
+import { provideStoreDevtools } from '@ngrx/store-devtools';
+import { provideAnimations } from '@angular/platform-browser/animations';
 
 export const appConfig: ApplicationConfig = {
   providers: [
@@ -32,5 +38,6 @@ export const appConfig: ApplicationConfig = {
       provide: API_URL,
       useValue: environment.api_url,
     },
+    provideAnimations(),
   ],
 };
