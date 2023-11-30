@@ -1,0 +1,794 @@
+[1m[33mOption "browserTarget" is deprecated: Use 'buildTarget' instead.[39m[22m
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m                      [2m | [22mvendor       [2m | [22m  [96m3.47 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mpolyfills.js[39m[37m                   [2m | [22mpolyfills    [2m | [22m[96m333.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mstyles.css, styles.js[39m[37m          [2m | [22mstyles       [2m | [22m[96m308.77 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                        [2m | [22mmain         [2m | [22m [96m38.48 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime      [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                              [2m | [22m[1mInitial Total[22m[2m | [22m  [1m4.14 MB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home   [2m | [22m[96m618.54 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:05:58.442Z[39m[37m[22m - Hash: [1m[37md8aba1c16bfb5706[39m[37m[22m - Time: [1m[37m45106[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m43[0m:[93m11[0m - [91merror[0m[90m TS2322: [0mType '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }[]' is not assignable to type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' is not assignable to type 'UsersEntity'.[39m[22m
+[1m[31m    Property 'address' is missing in type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' but required in type '{ address: Omit<DeepReadonlyObject<Address>, "geo">; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m43[0m     const convertedUsers: UsersEntity[] = users.map((user) => ({[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/data-access/src/lib/+state/users.models.ts[0m:[93m8[0m:[93m3[0m[39m[22m
+[1m[31m    [7m8[0m   address: Omit<UsersDTO['address'], 'geo'>[39m[22m
+[1m[31m    [7m [0m [96m  ~~~~~~~[0m[39m[22m
+[1m[31m    'address' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **[39m
+[37m[39m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m6 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:06:16.417Z[39m[37m[22m - Hash: [1m[37md8aba1c16bfb5706[39m[37m[22m - Time: [1m[37m15605[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m43[0m:[93m11[0m - [91merror[0m[90m TS2322: [0mType '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }[]' is not assignable to type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' is not assignable to type 'UsersEntity'.[39m[22m
+[1m[31m    Property 'address' is missing in type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' but required in type '{ address: Omit<DeepReadonlyObject<Address>, "geo">; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m43[0m     const convertedUsers: UsersEntity[] = users.map((user) => ({[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/data-access/src/lib/+state/users.models.ts[0m:[93m8[0m:[93m3[0m[39m[22m
+[1m[31m    [7m8[0m   address: Omit<UsersDTO['address'], 'geo'>[39m[22m
+[1m[31m    [7m [0m [96m  ~~~~~~~[0m[39m[22m
+[1m[31m    'address' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.54 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:06:19.854Z[39m[37m[22m - Hash: [1m[37mf68f596fd75c97c4[39m[37m[22m - Time: [1m[37m3237[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m43[0m:[93m12[0m - [91merror[0m[90m TS2552: [0mCannot find name 'DeepReadonlyObject'. Did you mean 'DeepReadonly'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m43[0m     users: DeepReadonlyObject<[39m[22m
+[1m[31m[7m  [0m [91m           ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.54 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:10:47.374Z[39m[37m[22m - Hash: [1m[37m663ce920d7f7829d[39m[37m[22m - Time: [1m[37m4111[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m50[0m:[93m11[0m - [91merror[0m[90m TS2322: [0mType '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }[]' is not assignable to type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' is not assignable to type 'UsersEntity'.[39m[22m
+[1m[31m    Property 'address' is missing in type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' but required in type '{ address: Omit<DeepReadonlyObject<Address>, "geo">; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m50[0m     const convertedUsers: UsersEntity[] = users.map((user) => ({[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/data-access/src/lib/+state/users.models.ts[0m:[93m8[0m:[93m3[0m[39m[22m
+[1m[31m    [7m8[0m   address: Omit<UsersDTO['address'], 'geo'>[39m[22m
+[1m[31m    [7m [0m [96m  ~~~~~~~[0m[39m[22m
+[1m[31m    'address' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.67 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:12:06.147Z[39m[37m[22m - Hash: [1m[37m0bfed6908b6c58ec[39m[37m[22m - Time: [1m[37m4646[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m50[0m:[93m11[0m - [91merror[0m[90m TS2322: [0mType '{ address: { street: string; suite: string; city: string; zipcode: string; geo: { lat: string; lng: string; }; }; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }[]' is not assignable to type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type '{ address: { street: string; suite: string; city: string; zipcode: string; geo: { lat: string; lng: string; }; }; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' is not assignable to type 'UsersEntity'.[39m[22m
+[1m[31m    Property 'website' is missing in type '{ address: { street: string; suite: string; city: string; zipcode: string; geo: { lat: string; lng: string; }; }; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' but required in type 'Omit<DeepReadonlyObject<{ id: number; name: string; username: string; email: string; address: Address; phone: string; website: string; company: Company; }>, "address">'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m50[0m     const convertedUsers: UsersEntity[] = users.map((user) => ({[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/data-access/src/lib/users-dto.model.ts[0m:[93m29[0m:[93m3[0m[39m[22m
+[1m[31m    [7m29[0m   website: string;[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~~~[0m[39m[22m
+[1m[31m    'website' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.54 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:13:23.178Z[39m[37m[22m - Hash: [1m[37mb2efab64edc84f8b[39m[37m[22m - Time: [1m[37m5421[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m50[0m:[93m11[0m - [91merror[0m[90m TS2322: [0mType '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }[]' is not assignable to type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' is not assignable to type 'UsersEntity'.[39m[22m
+[1m[31m    Property 'address' is missing in type '{ website: string; id: number; name: string; username: string; email: string; phone: string; company: DeepReadonlyObject<DeepReadonlyObject<Company>>; }' but required in type '{ address: Omit<DeepReadonlyObject<Address>, "geo">; }'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m50[0m     const convertedUsers: UsersEntity[] = users.map((user) => ({[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/data-access/src/lib/+state/users.models.ts[0m:[93m8[0m:[93m3[0m[39m[22m
+[1m[31m    [7m8[0m   address: Omit<UsersDTO['address'], 'geo'>[39m[22m
+[1m[31m    [7m [0m [96m  ~~~~~~~[0m[39m[22m
+[1m[31m    'address' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.71 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:14:29.533Z[39m[37m[22m - Hash: [1m[37mfa35123c4819a0b1[39m[37m[22m - Time: [1m[37m4820[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.71 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:15:41.666Z[39m[37m[22m - Hash: [1m[37m3ab1ab4ce2f78170[39m[37m[22m - Time: [1m[37m1976[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m36[0m:[93m11[0m - [91merror[0m[90m TS2345: [0mArgument of type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]' is not assignable to parameter of type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m  Property 'users' is missing in type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]' but required in type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m     super(this.originalUsers);[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m14[0m:[93m3[0m[39m[22m
+[1m[31m    [7m14[0m   users: UsersVM[];[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~[0m[39m[22m
+[1m[31m    'users' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m36[0m:[93m11[0m - [91merror[0m[90m TS17009: [0m'super' must be called before accessing 'this' in the constructor of a derived class.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m36[0m     super(this.originalUsers);[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.71 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:16:06.025Z[39m[37m[22m - Hash: [1m[37m2b99a98de1d06498[39m[37m[22m - Time: [1m[37m1455[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.77 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:19:48.497Z[39m[37m[22m - Hash: [1m[37m8925e5a345c1692d[39m[37m[22m - Time: [1m[37m1545[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.71 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:20:21.325Z[39m[37m[22m - Hash: [1m[37m2b99a98de1d06498[39m[37m[22m - Time: [1m[37m1681[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.72 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:26:57.058Z[39m[37m[22m - Hash: [1m[37mc7bb3306e5235081[39m[37m[22m - Time: [1m[37m1914[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m105[0m:[93m21[0m - [91merror[0m[90m TS2345: [0mArgument of type '(users: this, originalUsers: any) => { users: any; }' is not assignable to parameter of type 'Partial<DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>> | Observable<...> | ((state: DeepReadonlyObject<...>) => Partial<...>)'.[39m[22m
+[1m[31m  Type '(users: this, originalUsers: any) => { users: any; }' is not assignable to type '(state: DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>) => Partial<...>'.[39m[22m
+[1m[31m    Target signature provides too few arguments. Expected 2 or more, but got 1.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m105[0m     this.patchState(( users: this.originalUsers) => ({[39m[22m
+[1m[31m[7m   [0m [91m                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[7m106[0m       users: state.users.filter((user) => user.id !== userId),[39m[22m
+[1m[31m[7m   [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[7m107[0m     }));[39m[22m
+[1m[31m[7m   [0m [91m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m105[0m:[93m21[0m[39m[22m
+[1m[31m    [7m105[0m     this.patchState(( users: this.originalUsers) => ({[39m[22m
+[1m[31m    [7m   [0m [96m                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    [7m106[0m       users: state.users.filter((user) => user.id !== userId),[39m[22m
+[1m[31m    [7m   [0m [96m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    [7m107[0m     }));[39m[22m
+[1m[31m    [7m   [0m [96m~~~~~~[0m[39m[22m
+[1m[31m    Did you mean to call this expression?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m105[0m:[93m34[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m105[0m     this.patchStat[39m[22m[1m[31me(( users: this.originalUsers) => ({[39m[22m
+[1m[31m[7m   [0m [91m                                 ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m105[0m:[93m35[0m - [91merror[0m[90m TS7006: [0mParameter 'originalUsers' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m105[0m     this.patchState(( users: this.originalUsers) => ({[39m[22m
+[1m[31m[7m   [0m [91m                                  ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m106[0m:[93m14[0m - [91merror[0m[90m TS2663: [0mCannot find name 'state'. Did you mean the instance member 'this.state'?[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m106[0m       users: state.users.filter((user) => user.id !== userId),[39m[22m
+[1m[31m[7m   [0m [91m             ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m106[0m:[93m34[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m106[0m       users: state.users.filter((user) => user.id !== userId),[39m[22m
+[1m[31m[7m   [0m [91m                                 ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.71 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:27:32.356Z[39m[37m[22m - Hash: [1m[37m2b99a98de1d06498[39m[37m[22m - Time: [1m[37m1695[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.70 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:29:36.083Z[39m[37m[22m - Hash: [1m[37mb5154c96210cc04e[39m[37m[22m - Time: [1m[37m3077[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.85 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:36:41.029Z[39m[37m[22m - Hash: [1m[37m4022260f78f59f4a[39m[37m[22m - Time: [1m[37m2824[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.76 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:41:22.284Z[39m[37m[22m - Hash: [1m[37m4942062bab1d65ac[39m[37m[22m - Time: [1m[37m1888[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m32[0m:[93m11[0m - [91merror[0m[90m TS7008: [0mMember 'type' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m32[0m   private type UsersListState = DeepReadonly<{[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m32[0m:[93m16[0m - [91merror[0m[90m TS2457: [0mType alias name cannot be 'UsersListState'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m32[0m   private type UsersListState = DeepReadonly<{[39m[22m
+[1m[31m[7m  [0m [91m               ~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m32[0m:[93m33[0m - [91merror[0m[90m TS2693: [0m'DeepReadonly' only refers to a type, but is being used as a value here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m32[0m   private type UsersListState = DeepReadonly<{[39m[22m
+[1m[31m[7m  [0m [91m                                ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.85 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-27T13:41:39.548Z[39m[37m[22m - Hash: [1m[37me0e63bf34393d99c[39m[37m[22m - Time: [1m[37m1968[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.82 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:07:22.662Z[39m[37m[22m - Hash: [1m[37m1033ec35e699e155[39m[37m[22m - Time: [1m[37m6568[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.76 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:07:54.309Z[39m[37m[22m - Hash: [1m[37mdd716d7c1c723919[39m[37m[22m - Time: [1m[37m2551[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.77 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:35:24.668Z[39m[37m[22m - Hash: [1m[37mca7cfd8c00e0e03c[39m[37m[22m - Time: [1m[37m5154[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m32[0m:[93m11[0m - [91merror[0m[90m TS2740: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]': length, pop, push, concat, and 28 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m32[0m   private originalUsers: UsersVM[] = initialState;[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.76 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:36:11.946Z[39m[37m[22m - Hash: [1m[37mf0e7fd305cc35f45[39m[37m[22m - Time: [1m[37m1948[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.83 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:36:37.994Z[39m[37m[22m - Hash: [1m[37m743cb0ddabd6715e[39m[37m[22m - Time: [1m[37m1245[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m74[0m:[93m11[0m - [91merror[0m[90m TS2741: [0mProperty 'users' is missing in type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]' but required in type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m74[0m           this.originalUsers = users.map((user) =>[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m14[0m:[93m3[0m[39m[22m
+[1m[31m    [7m14[0m   users: UsersVM[];[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~[0m[39m[22m
+[1m[31m    'users' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m77[0m:[93m27[0m - [91merror[0m[90m TS2345: [0mArgument of type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to parameter of type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]'.[39m[22m
+[1m[31m  Type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]': length, pop, push, concat, and 28 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m77[0m           this.patchUsers(this.originalUsers); // Update the users list[39m[22m
+[1m[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m90[0m:[93m48[0m - [91merror[0m[90m TS2339: [0mProperty 'filte[39m[22m[1m[31mr' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m90[0m       const filteredUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m  [0m [91m                                               ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m91[0m:[93m10[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m91[0m         (user) =>[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m102[0m:[93m25[0m - [91merror[0m[90m TS2740: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]': length, concat, join, slice, and 19 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m102[0m       this.patchState({ users: this.originalUsers }); // Reset the filter and show all original users[39m[22m
+[1m[31m[7m   [0m [91m                        ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m107[0m:[93m45[0m - [91merror[0m[90m TS2339: [0mProperty 'filter' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m107[0m     this.originalUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m   [0m [91m                                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m108[0m:[93m8[0m - [91mer[39m[22m[1m[31mror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m108[0m       (user) => user.id !== userId,[39m[22m
+[1m[31m[7m   [0m [91m       ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m110[0m:[93m23[0m - [91merror[0m[90m TS2322: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m110[0m     this.patchState({ users: this.originalUsers }); // Update the users list with the modified originalUsers[39m[22m
+[1m[31m[7m   [0m [91m                      ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.22 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:39:31.531Z[39m[37m[22m - Hash: [1m[37mfa37fb129dfece3e[39m[37m[22m - Time: [1m[37m2382[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m80[0m:[93m11[0m - [91merror[0m[90m TS2741: [0mProperty 'users' is missing in type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]' but required in type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m80[0m           this.originalUsers = users.map((user) =>[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m14[0m:[93m3[0m[39m[22m
+[1m[31m    [7m14[0m   users: UsersVM[];[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~[0m[39m[22m
+[1m[31m    'users' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m83[0m:[93m27[0m - [91merror[0m[90m TS2345: [0mArgument of type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to parameter of type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'UsersEntity[]': length, pop, push, concat, and 28 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m83[0m           this.patchUsers(this.originalUsers); // Update the users list[39m[22m
+[1m[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m96[0m:[93m48[0m - [91merror[0m[90m TS2339: [0mProperty 'filter' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m96[[39m[22m[1m[31m0m       const filteredUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m  [0m [91m                                               ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m97[0m:[93m10[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m97[0m         (user) =>[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m108[0m:[93m25[0m - [91merror[0m[90m TS2740: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]': length, concat, join, slice, and 19 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m108[0m       this.patchState({ users: this.originalUsers }); // Reset the filter and show all original users[39m[22m
+[1m[31m[7m   [0m [91m                        ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m113[0m:[93m45[0m - [91merror[0m[90m TS2339: [0mProperty 'filter' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m113[0m     this.originalUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m   [0m [91m                                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m114[0m:[93m8[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m114[0m       (user) => user.id !== userId,[39m[22m
+[1m[31m[7m   [0m [91m       ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mErr[39m[22m[1m[31mor: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m116[0m:[93m23[0m - [91merror[0m[90m TS2322: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m116[0m     this.patchState({ users: this.originalUsers }); // Update the users list with the modified originalUsers[39m[22m
+[1m[31m[7m   [0m [91m                      ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.45 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:40:38.595Z[39m[37m[22m - Hash: [1m[37m8f9cd6d2df7c2c2d[39m[37m[22m - Time: [1m[37m1556[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m51[0m:[93m11[0m - [91merror[0m[90m TS2741: [0mProperty 'users' is missing in type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]' but required in type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m51[0m           this.originalUsers = users.map((user) =>[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m14[0m:[93m3[0m[39m[22m
+[1m[31m    [7m14[0m   users: UsersVM[];[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~[0m[39m[22m
+[1m[31m    'users' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m54[0m:[93m27[0m - [91merror[0m[90m TS2345: [0mArgument of type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to parameter of type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'UsersEntity[]': length, pop, push, concat, and 28 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m           this.patchUsers(this.originalUsers); // Update the users list[39m[22m
+[1m[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m67[0m:[93m48[0m - [91merror[0m[90m TS2339: [0mProperty 'filter' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m67[[39m[22m[1m[31m0m       const filteredUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m  [0m [91m                                               ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m68[0m:[93m10[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m68[0m         (user) =>[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m79[0m:[93m25[0m - [91merror[0m[90m TS2740: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]': length, concat, join, slice, and 19 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m79[0m       this.patchState({ users: this.originalUsers }); // Reset the filter and show all original users[39m[22m
+[1m[31m[7m  [0m [91m                        ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m84[0m:[93m45[0m - [91merror[0m[90m TS2339: [0mProperty 'filter' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m84[0m     this.originalUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m  [0m [91m                                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m85[0m:[93m8[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m85[0m       (user) => user.id !== userId,[39m[22m
+[1m[31m[7m  [0m [91m       ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[39m[22m[1m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m87[0m:[93m23[0m - [91merror[0m[90m TS2322: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m87[0m     this.patchState({ users: this.originalUsers }); // Update the users list with the modified originalUsers[39m[22m
+[1m[31m[7m  [0m [91m                      ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.22 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:41:46.463Z[39m[37m[22m - Hash: [1m[37m2707089e175f4b96[39m[37m[22m - Time: [1m[37m1597[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m80[0m:[93m11[0m - [91merror[0m[90m TS2741: [0mProperty 'users' is missing in type 'DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]' but required in type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m80[0m           this.originalUsers = users.map((user) =>[39m[22m
+[1m[31m[7m  [0m [91m          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m14[0m:[93m3[0m[39m[22m
+[1m[31m    [7m14[0m   users: UsersVM[];[39m[22m
+[1m[31m    [7m  [0m [96m  ~~~~~[0m[39m[22m
+[1m[31m    'users' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m83[0m:[93m27[0m - [91merror[0m[90m TS2345: [0mArgument of type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to parameter of type 'UsersEntity[]'.[39m[22m
+[1m[31m  Type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'UsersEntity[]': length, pop, push, concat, and 28 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m83[0m           this.patchUsers(this.originalUsers); // Update the users list[39m[22m
+[1m[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m96[0m:[93m48[0m - [91merror[0m[90m TS2339: [0mProperty 'filter' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m96[[39m[22m[1m[31m0m       const filteredUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m  [0m [91m                                               ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m97[0m:[93m10[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m97[0m         (user) =>[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m108[0m:[93m25[0m - [91merror[0m[90m TS2740: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is missing the following properties from type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]': length, concat, join, slice, and 19 more.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m108[0m       this.patchState({ users: this.originalUsers }); // Reset the filter and show all original users[39m[22m
+[1m[31m[7m   [0m [91m                        ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m113[0m:[93m45[0m - [91merror[0m[90m TS2339: [0mProperty 'filter' does not exist on type 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m113[0m     this.originalUsers = this.originalUsers.filter([39m[22m
+[1m[31m[7m   [0m [91m                                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m114[0m:[93m8[0m - [91merror[0m[90m TS7006: [0mParameter 'user' implicitly has an 'any' type.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m114[0m       (user) => user.id !== userId,[39m[22m
+[1m[31m[7m   [0m [91m       ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mErr[39m[22m[1m[31mor: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts[0m:[93m116[0m:[93m23[0m - [91merror[0m[90m TS2322: [0mType 'DeepReadonlyObject<{ users: DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>[]; }>' is not assignable to type 'readonly DeepReadonlyObject<DeepReadonlyObject<Pick<UsersEntity, "id" | "name" | "username" | "email" | "phone" | "company">>>[]'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m116[0m     this.patchState({ users: this.originalUsers }); // Update the users list with the modified originalUsers[39m[22m
+[1m[31m[7m   [0m [91m                      ~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.76 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:44:39.709Z[39m[37m[22m - Hash: [1m[37m9b9aa59903fb3a55[39m[37m[22m - Time: [1m[37m3358[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.63 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:56:53.078Z[39m[37m[22m - Hash: [1m[37me100ac875e6d87de[39m[37m[22m - Time: [1m[37m2845[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.60 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T07:57:06.170Z[39m[37m[22m - Hash: [1m[37m04fa77371346e2dd[39m[37m[22m - Time: [1m[37m1368[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.67 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T08:20:26.721Z[39m[37m[22m - Hash: [1m[37mef010c60ae734839[39m[37m[22m - Time: [1m[37m3113[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m618.90 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-11-30T08:21:15.812Z[39m[37m[22m - Hash: [1m[37mdbfb9f7cb36a9cb6[39m[37m[22m - Time: [1m[37m2201[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m

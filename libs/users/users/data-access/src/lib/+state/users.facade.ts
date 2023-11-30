@@ -16,12 +16,12 @@ export class UsersFacade {
   loaded$ = this.store.pipe(select(UsersSelectors.selectUsersLoaded));
   // allUsers$ = this.store.pipe(select(UsersSelectors.selectAllUsers));
   selectedUsers$ = this.store.pipe(select(UsersSelectors.selectEntity));
+  public readonly allUsers$ = this.store.pipe(
+    select(UsersSelectors.selectFilteredUsers),
+  );
 
   public readonly filter$ = this.store.pipe(
     select(UsersSelectors.selectUsersFilter),
-  );
-  public readonly allUsers$ = this.store.pipe(
-    select(UsersSelectors.selectFilteredUsers),
   );
 
   /**
@@ -34,5 +34,9 @@ export class UsersFacade {
 
   filterUser(filterParams: UsersFilter) {
     this.store.dispatch(UsersActions.filterUsers({ filterParams }));
+  }
+
+  deleteUser(id: number) {
+    this.store.dispatch(UsersActions.deleteUser({ id }));
   }
 }

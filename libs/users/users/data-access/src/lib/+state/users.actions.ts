@@ -18,3 +18,8 @@ export const filterUsers = createAction(
   '[Users Page] Filter Users',
   props<{ filterParams: UsersFilter }>(),
 );
+
+export const deleteUser = createAction(
+  '[Users Page] Delete User',
+  props<{ id: number }>(),
+);

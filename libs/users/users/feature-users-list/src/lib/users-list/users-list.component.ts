@@ -30,7 +30,7 @@ export class UsersListComponent {
     this.deleteUser.emit(userId);
   }
 
-    OnFiltredUsers(event: { name: string }) {
+  OnFiltredUsers(event: { name: string }) {
     this.filterUsers.emit(event);
   }
 }

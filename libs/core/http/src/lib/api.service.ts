@@ -11,13 +11,13 @@ export class ApiService {
 
   public getUsers(): Observable<UsersDTO[]> {
     return this.http.get<UsersDTO[]>(
-      'https://jsonplaceholder.typicode.com/users'
+      'https://jsonplaceholder.typicode.com/users',
     );
   }
 
   public get<T>(
     url: string,
-    params: HttpParams = new HttpParams()
+    params: HttpParams = new HttpParams(),
   ): Observable<T> {
     console.log({ url, apiUrl: this.apiUrl });
     return this.http.get<T>(`${this.apiUrl}${url}`, {

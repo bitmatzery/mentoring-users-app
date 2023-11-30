@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "nx run users:serve:development",
-    "startTime": "2023-11-22T10:02:49.137Z",
-    "endTime": "2023-11-22T10:15:57.874Z",
+    "startTime": "2023-11-22T10:40:18.863Z",
+    "endTime": "2023-11-27T12:46:11.343Z",
     "inner": false
   },
   "tasks": [
@@ -10,9 +10,9 @@
       "taskId": "users:serve:development",
       "target": "serve",
       "projectName": "users",
-      "hash": "6869697760666636055",
-      "startTime": "2023-11-22T10:02:49.481Z",
-      "endTime": "2023-11-22T10:15:57.872Z",
+      "hash": "16672449654853225752",
+      "startTime": "2023-11-22T10:40:18.960Z",
+      "endTime": "2023-11-27T12:46:11.339Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 1

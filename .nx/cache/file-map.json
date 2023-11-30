@@ -102,11 +102,11 @@
       },
       {
         "file": ".nx/cache/d/server-process.json",
-        "hash": "17999573539923190623"
+        "hash": "6395257852229410029"
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "3992583811778287025"
+        "hash": "5377789645708675724"
       },
       {
         "file": ".nx/cache/lockfile.hash",
@@ -118,15 +118,19 @@
       },
       {
         "file": ".nx/cache/project-graph.json",
-        "hash": "780954768405601411"
+        "hash": "9121575476019116143"
       },
       {
         "file": ".nx/cache/run.json",
-        "hash": "4541745504055267071"
+        "hash": "6908617689545713727"
       },
       {
         "file": ".nx/cache/terminalOutputs/15417726073814080621",
         "hash": "993866540117816946"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/16672449654853225752",
+        "hash": "3906592350118822201"
       },
       {
         "file": ".nx/cache/terminalOutputs/16730277404363730861",
@@ -202,7 +206,7 @@
       },
       {
         "file": "package.json",
-        "hash": "5014792460697573083"
+        "hash": "11119995266401021338"
       },
       {
         "file": "tools/tsconfig.tools.json",
@@ -214,6 +218,48 @@
       }
     ],
     "projectFileMap": {
+      "users-e2e": [
+        {
+          "file": "apps/users-e2e/.eslintrc.json",
+          "hash": "14060216369337943343"
+        },
+        {
+          "file": "apps/users-e2e/cypress.config.ts",
+          "hash": "15414076024138857470",
+          "deps": [
+            "npm:cypress",
+            "npm:@nx/cypress/plugins/cypress-preset"
+          ]
+        },
+        {
+          "file": "apps/users-e2e/project.json",
+          "hash": "13833512427666506680"
+        },
+        {
+          "file": "apps/users-e2e/src/e2e/app.cy.ts",
+          "hash": "1627315876065656"
+        },
+        {
+          "file": "apps/users-e2e/src/fixtures/example.json",
+          "hash": "11614668686582597233"
+        },
+        {
+          "file": "apps/users-e2e/src/support/app.po.ts",
+          "hash": "11157016311132186162"
+        },
+        {
+          "file": "apps/users-e2e/src/support/commands.ts",
+          "hash": "7314691991044890572"
+        },
+        {
+          "file": "apps/users-e2e/src/support/e2e.ts",
+          "hash": "3666078656922506009"
+        },
+        {
+          "file": "apps/users-e2e/tsconfig.json",
+          "hash": "15439127571515986436"
+        }
+      ],
       "users-home": [
         {
           "file": "libs/users/home/.eslintrc.json",
@@ -279,152 +325,133 @@
           "hash": "7159729809249402441"
         }
       ],
-      "users-users-feature-users-list": [
+      "users-users-data-access": [
         {
-          "file": "libs/users/users/feature-users-list/.eslintrc.json",
+          "file": "libs/users/users/data-access/.eslintrc.json",
           "hash": "3319441746155105349"
         },
         {
-          "file": "libs/users/users/feature-users-list/README.md",
-          "hash": "3590061589119931402"
+          "file": "libs/users/users/data-access/README.md",
+          "hash": "15909389826658657133"
         },
         {
-          "file": "libs/users/users/feature-users-list/jest.config.ts",
-          "hash": "14918776663274296927"
+          "file": "libs/users/users/data-access/jest.config.ts",
+          "hash": "15453917591070072211"
         },
         {
-          "file": "libs/users/users/feature-users-list/project.json",
-          "hash": "6456377335091770609"
+          "file": "libs/users/users/data-access/project.json",
+          "hash": "7983030064634073637"
         },
         {
-          "file": "libs/users/users/feature-users-list/src/index.ts",
-          "hash": "14709089259956294314"
+          "file": "libs/users/users/data-access/src/index.ts",
+          "hash": "127474270708987292"
         },
         {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list-view-model.ts",
-          "hash": "8508120563247518758",
+          "file": "libs/users/users/data-access/src/lib/+state/users.actions.ts",
+          "hash": "5921095550801601103",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.effects.spec.ts",
+          "hash": "4439683940641588313",
+          "deps": [
+            "npm:@angular/core/testing",
+            "npm:@ngrx/effects/testing",
+            "npm:@ngrx/store",
+            "npm:@ngrx/store/testing",
+            "npm:jasmine-marbles",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.effects.ts",
+          "hash": "4565961473076835644",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@ngrx/effects",
+            "npm:rxjs",
+            "core-http"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.facade.spec.ts",
+          "hash": "13360515150704655828",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/core/testing",
+            "npm:@ngrx/effects",
+            "npm:@ngrx/store",
+            "npm:@nx/angular/testing"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.facade.ts",
+          "hash": "7576369543259789072",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@ngrx/store"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.models.ts",
+          "hash": "14962404238783323347"
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.reducer.spec.ts",
+          "hash": "14392881670595273624",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.reducer.ts",
+          "hash": "10700805188063836219",
+          "deps": [
+            "npm:@ngrx/entity",
+            "npm:@ngrx/store"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.selectors.spec.ts",
+          "hash": "6233503575513842416"
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/+state/users.selectors.ts",
+          "hash": "7141249434714967858",
+          "deps": [
+            "npm:@ngrx/store"
+          ]
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/users-dto.adapter.ts",
+          "hash": "15390254712821881962"
+        },
+        {
+          "file": "libs/users/users/data-access/src/lib/users-dto.model.ts",
+          "hash": "9687973548149062869",
           "deps": [
             "core-utils"
           ]
         },
         {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.html",
-          "hash": "2211121572484780439"
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.scss",
-          "hash": "9969638007410141116"
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.spec.ts",
-          "hash": "2172874414768568348",
-          "deps": [
-            "npm:@angular/core/testing"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.ts",
-          "hash": "5765434481606123267",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html",
-          "hash": "17281949776316452587"
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.scss",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.spec.ts",
-          "hash": "522820976599354583",
-          "deps": [
-            "npm:@angular/core/testing"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts",
-          "hash": "3258317239996892956",
-          "deps": [
-            "npm:@angular/common",
-            "npm:@angular/core",
-            "npm:@ngrx/component",
-            "npm:@angular/forms",
-            "users-users-data-access"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts",
-          "hash": "9352557227250209710",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@ngrx/component-store",
-            "users-users-data-access",
-            "core-utils",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.html",
-          "hash": "17992557967559975305"
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.scss",
-          "hash": "1876941692297229029"
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.spec.ts",
-          "hash": "3281732393831363018",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts",
-          "hash": "1047607511634468595",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common",
-            "npm:@angular/material",
-            "npm:@angular/forms",
-            "npm:@ngrx/component"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-vm.adapter.ts",
-          "hash": "7778140301858690672",
-          "deps": [
-            "users-users-data-access"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/lib/users-vm.ts",
-          "hash": "2870515908836333144",
-          "deps": [
-            "core-utils",
-            "users-users-data-access"
-          ]
-        },
-        {
-          "file": "libs/users/users/feature-users-list/src/test-setup.ts",
+          "file": "libs/users/users/data-access/src/test-setup.ts",
           "hash": "12935735732682149507",
           "deps": [
             "npm:jest-preset-angular/setup-jest"
           ]
         },
         {
-          "file": "libs/users/users/feature-users-list/tsconfig.json",
-          "hash": "3145049049437366406"
+          "file": "libs/users/users/data-access/tsconfig.json",
+          "hash": "16248533471678702062"
         },
         {
-          "file": "libs/users/users/feature-users-list/tsconfig.lib.json",
+          "file": "libs/users/users/data-access/tsconfig.lib.json",
           "hash": "8746075233993636049"
         },
         {
-          "file": "libs/users/users/feature-users-list/tsconfig.spec.json",
+          "file": "libs/users/users/data-access/tsconfig.spec.json",
           "hash": "9840611283105717156"
         }
       ],
@@ -439,7 +466,7 @@
         },
         {
           "file": "apps/users/project.json",
-          "hash": "8897696271060829170"
+          "hash": "10332290624810765946"
         },
         {
           "file": "apps/users/src/app/app.component.html",
@@ -498,6 +525,10 @@
           "hash": "8524761304664094395"
         },
         {
+          "file": "apps/users/src/app-theme.scss",
+          "hash": "315912481892192519"
+        },
+        {
           "file": "apps/users/src/assets/.gitkeep",
           "hash": "3244421341483603138"
         },
@@ -550,10 +581,6 @@
         {
           "file": "apps/users/tsconfig.spec.json",
           "hash": "2927375835638640771"
-        },
-        {
-          "file": "apps/users/src/app-theme.scss",
-          "hash": "315912481892192519"
         }
       ],
       "core-utils": [
@@ -599,48 +626,6 @@
         {
           "file": "libs/core/utils/tsconfig.spec.json",
           "hash": "7159729809249402441"
-        }
-      ],
-      "users-e2e": [
-        {
-          "file": "apps/users-e2e/.eslintrc.json",
-          "hash": "14060216369337943343"
-        },
-        {
-          "file": "apps/users-e2e/cypress.config.ts",
-          "hash": "15414076024138857470",
-          "deps": [
-            "npm:cypress",
-            "npm:@nx/cypress/plugins/cypress-preset"
-          ]
-        },
-        {
-          "file": "apps/users-e2e/project.json",
-          "hash": "13833512427666506680"
-        },
-        {
-          "file": "apps/users-e2e/src/e2e/app.cy.ts",
-          "hash": "1627315876065656"
-        },
-        {
-          "file": "apps/users-e2e/src/fixtures/example.json",
-          "hash": "11614668686582597233"
-        },
-        {
-          "file": "apps/users-e2e/src/support/app.po.ts",
-          "hash": "11157016311132186162"
-        },
-        {
-          "file": "apps/users-e2e/src/support/commands.ts",
-          "hash": "7314691991044890572"
-        },
-        {
-          "file": "apps/users-e2e/src/support/e2e.ts",
-          "hash": "3666078656922506009"
-        },
-        {
-          "file": "apps/users-e2e/tsconfig.json",
-          "hash": "15439127571515986436"
         }
       ],
       "layout": [
@@ -737,136 +722,6 @@
           "hash": "10947427939423599172"
         }
       ],
-      "users-users-data-access": [
-        {
-          "file": "libs/users/users/data-access/.eslintrc.json",
-          "hash": "3319441746155105349"
-        },
-        {
-          "file": "libs/users/users/data-access/README.md",
-          "hash": "15909389826658657133"
-        },
-        {
-          "file": "libs/users/users/data-access/jest.config.ts",
-          "hash": "15453917591070072211"
-        },
-        {
-          "file": "libs/users/users/data-access/project.json",
-          "hash": "7983030064634073637"
-        },
-        {
-          "file": "libs/users/users/data-access/src/index.ts",
-          "hash": "127474270708987292"
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.actions.ts",
-          "hash": "420028007370129253",
-          "deps": [
-            "npm:@ngrx/store"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.effects.spec.ts",
-          "hash": "4439683940641588313",
-          "deps": [
-            "npm:@angular/core/testing",
-            "npm:@ngrx/effects/testing",
-            "npm:@ngrx/store",
-            "npm:@ngrx/store/testing",
-            "npm:jasmine-marbles",
-            "npm:rxjs"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.effects.ts",
-          "hash": "4565961473076835644",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@ngrx/effects",
-            "npm:rxjs",
-            "core-http"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.facade.spec.ts",
-          "hash": "13360515150704655828",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/core/testing",
-            "npm:@ngrx/effects",
-            "npm:@ngrx/store",
-            "npm:@nx/angular/testing"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.facade.ts",
-          "hash": "2022826257049390224",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@ngrx/store"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.models.ts",
-          "hash": "14962404238783323347"
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.reducer.spec.ts",
-          "hash": "14392881670595273624",
-          "deps": [
-            "npm:@ngrx/store"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.reducer.ts",
-          "hash": "4717915501203372585",
-          "deps": [
-            "npm:@ngrx/entity",
-            "npm:@ngrx/store"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.selectors.spec.ts",
-          "hash": "6233503575513842416"
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/+state/users.selectors.ts",
-          "hash": "7141249434714967858",
-          "deps": [
-            "npm:@ngrx/store"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/users-dto.adapter.ts",
-          "hash": "15390254712821881962"
-        },
-        {
-          "file": "libs/users/users/data-access/src/lib/users-dto.model.ts",
-          "hash": "8870072839173140308",
-          "deps": [
-            "core-utils"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/src/test-setup.ts",
-          "hash": "12935735732682149507",
-          "deps": [
-            "npm:jest-preset-angular/setup-jest"
-          ]
-        },
-        {
-          "file": "libs/users/users/data-access/tsconfig.json",
-          "hash": "16248533471678702062"
-        },
-        {
-          "file": "libs/users/users/data-access/tsconfig.lib.json",
-          "hash": "8746075233993636049"
-        },
-        {
-          "file": "libs/users/users/data-access/tsconfig.spec.json",
-          "hash": "9840611283105717156"
-        }
-      ],
       "core-http": [
         {
           "file": "libs/core/http/.eslintrc.json",
@@ -897,10 +752,10 @@
         },
         {
           "file": "libs/core/http/src/lib/api.service.ts",
-          "hash": "9095995393172027350",
+          "hash": "3069637202012206935",
           "deps": [
             "npm:@angular/core",
-            "npm:@angular/common/http",
+            "npm:@angular/common",
             "npm:rxjs",
             "users-users-data-access"
           ]
@@ -923,6 +778,155 @@
         {
           "file": "libs/core/http/tsconfig.spec.json",
           "hash": "7159729809249402441"
+        }
+      ],
+      "users-users-feature-users-list": [
+        {
+          "file": "libs/users/users/feature-users-list/.eslintrc.json",
+          "hash": "3319441746155105349"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/README.md",
+          "hash": "3590061589119931402"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/jest.config.ts",
+          "hash": "14918776663274296927"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/project.json",
+          "hash": "6456377335091770609"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/index.ts",
+          "hash": "14709089259956294314"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list-view-model.ts",
+          "hash": "8508120563247518758",
+          "deps": [
+            "core-utils"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.html",
+          "hash": "1597877224438607536"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.scss",
+          "hash": "17118903819071877335"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.spec.ts",
+          "hash": "2172874414768568348",
+          "deps": [
+            "npm:@angular/core/testing"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.ts",
+          "hash": "2522205473496725060",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html",
+          "hash": "17281949776316452587"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.spec.ts",
+          "hash": "522820976599354583",
+          "deps": [
+            "npm:@angular/core/testing"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts",
+          "hash": "17985762194482491077",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/core",
+            "npm:@ngrx/component",
+            "npm:@angular/forms",
+            "users-users-data-access"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.store.ts",
+          "hash": "5548833824657970322",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@ngrx/component-store",
+            "users-users-data-access",
+            "core-utils",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.html",
+          "hash": "17992557967559975305"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.scss",
+          "hash": "1876941692297229029"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.spec.ts",
+          "hash": "3281732393831363018",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts",
+          "hash": "1047607511634468595",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/material",
+            "npm:@angular/forms",
+            "npm:@ngrx/component"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-vm.adapter.ts",
+          "hash": "7778140301858690672",
+          "deps": [
+            "users-users-data-access"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/lib/users-vm.ts",
+          "hash": "2870515908836333144",
+          "deps": [
+            "core-utils",
+            "users-users-data-access"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/src/test-setup.ts",
+          "hash": "12935735732682149507",
+          "deps": [
+            "npm:jest-preset-angular/setup-jest"
+          ]
+        },
+        {
+          "file": "libs/users/users/feature-users-list/tsconfig.json",
+          "hash": "3145049049437366406"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/tsconfig.lib.json",
+          "hash": "8746075233993636049"
+        },
+        {
+          "file": "libs/users/users/feature-users-list/tsconfig.spec.json",
+          "hash": "9840611283105717156"
         }
       ]
     }

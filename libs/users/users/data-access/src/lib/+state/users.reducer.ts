@@ -51,6 +51,9 @@ const reducer = createReducer(
     ...state,
     filter: filterParams,
   })),
+  on(UsersActions.deleteUser, (state, { id }) =>
+    usersAdapter.removeOne(id, { ...state }),
+  ),
 );
 
 export function usersReducer(state: UsersState | undefined, action: Action) {
