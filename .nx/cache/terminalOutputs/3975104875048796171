@@ -380,3 +380,637 @@
 [37m[0mBuild at: [1m[37m2023-12-02T11:35:33.841Z[39m[37m[22m - Hash: [1m[37ma4716f7563048580[39m[37m[22m - Time: [1m[37m3194[39m[37m[22mms[0m[39m
 [37m[39m
 [37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.51 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:41:15.669Z[39m[37m[22m - Hash: [1m[37m56a006811ee1817a[39m[37m[22m - Time: [1m[37m11954[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m11[0m:[93m21[0m - [91merror[0m[90m TS2339: [0mProperty 'OnDeleteUser' does not exist on type 'UsersListContainerComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m       (deleteUser)="OnDeleteUser($event)"[39m[22m
+[1m[31m[7m  [0m [91m                    ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m26[0m:[93m16[0m[39m[22m
+[1m[31m    [7m26[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m32[0m:[93m14[0m - [91merror[0m[90m TS2420: [0mClass 'UsersListContainerComponent' incorrectly implements interface 'OnDestroy'.[39m[22m
+[1m[31m  Property 'ngOnDestroy' is missing in type 'UsersListContainerComponent' but required in type 'OnDestroy'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m32[0m export class UsersListContainerComponent implements OnDestroy {[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/@angular/core/index.d.ts[0m:[93m6671[0m:[93m5[0m[39m[22m
+[1m[31m    [7m6671[0m     ngOnDestroy(): void;[39m[22m
+[1m[31m    [7m    [0m [96m    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ngOnDestroy' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m43[0m:[93m10[0m - [91merror[0m[90m TS2339: [0mProperty 'router' does not exist on type 'UsersListContainerComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m43[0m     this.router.navigate(['/admin/users'], { queryParams: { name: filterParams.name }});[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-cont[39m[22m[1m[31mainer.component.ts[0m:[93m53[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'OnDeleteUser'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m53[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m53[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m53[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                 ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m53[0m:[93m20[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m53[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m53[0m:[93m22[0m - [91merror[0m[90m TS2693: [0m'number' only refers to a type, but is being used as a value here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m53[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                     ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m53[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m53[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                             ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m54[0m:[93m7[0m - [91merror[0m[90m TS2532: [0mObject is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m       this.usersFacade.deleteUser(id);[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m54[0m:[93m35[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m      [39m[22m[1m[31m this.usersFacade.deleteUser(id);[39m[22m
+[1m[31m[7m  [0m [91m                                  ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m62[0m:[93m3[0m - [91merror[0m[90m TS2304: [0mCannot find name 'ngOnDestroy'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m62[0m   ngOnDestroy() {[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m62[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m62[0m   ngOnDestroy() {[39m[22m
+[1m[31m[7m  [0m [91m                ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m63[0m:[93m5[0m - [91merror[0m[90m TS2532: [0mObject is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m63[0m     this.usersFacade.filterUser({[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m70[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m70[0m }[39m[22m
+[1m[31m[7m  [0m [91m~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.59 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:41:31.822Z[39m[37m[22m - Hash: [1m[37m4f8f02bcbdcc0524[39m[37m[22m - Time: [1m[37m1798[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m11[0m:[93m21[0m - [91merror[0m[90m TS2339: [0mProperty 'OnDeleteUser' does not exist on type 'UsersListContainerComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m       (deleteUser)="OnDeleteUser($event)"[39m[22m
+[1m[31m[7m  [0m [91m                    ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m26[0m:[93m16[0m[39m[22m
+[1m[31m    [7m26[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m32[0m:[93m14[0m - [91merror[0m[90m TS2420: [0mClass 'UsersListContainerComponent' incorrectly implements interface 'OnDestroy'.[39m[22m
+[1m[31m  Property 'ngOnDestroy' is missing in type 'UsersListContainerComponent' but required in type 'OnDestroy'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m32[0m export class UsersListContainerComponent implements OnDestroy {[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/@angular/core/index.d.ts[0m:[93m6671[0m:[93m5[0m[39m[22m
+[1m[31m    [7m6671[0m     ngOnDestroy(): void;[39m[22m
+[1m[31m    [7m    [0m [96m    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ngOnDestroy' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m33[0m:[93m36[0m - [91merror[0m[90m TS2304: [0mCannot find name 'Router'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m33[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                                   ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m44[0m:[93m5[0m - [91merror[0m[[39m[22m[1m[31m90m TS2571: [0mObject is of type 'unknown'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m44[0m     this.router.navigate(['/admin/users'], { queryParams: { name: filterParams.name }});[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m54[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'OnDeleteUser'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m54[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                 ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m54[0m:[93m20[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m54[0m:[93m22[0m - [91merror[0m[90m TS2693: [0m'number' only refers to a type, but is being used as a value here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                     ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m54[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m54[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                             ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m55[0m:[93m7[0m - [91merror[0m[90m TS2532: [0mObject is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m55[0m       thi[39m[22m[1m[31ms.usersFacade.deleteUser(id);[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m55[0m:[93m35[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m55[0m       this.usersFacade.deleteUser(id);[39m[22m
+[1m[31m[7m  [0m [91m                                  ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m63[0m:[93m3[0m - [91merror[0m[90m TS2304: [0mCannot find name 'ngOnDestroy'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m63[0m   ngOnDestroy() {[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m63[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m63[0m   ngOnDestroy() {[39m[22m
+[1m[31m[7m  [0m [91m                ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m64[0m:[93m5[0m - [91merror[0m[90m TS2532: [0mObject is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m64[0m     this.usersFacade.filterUser({[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m71[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m71[0m }[39m[22m
+[1m[31m[7m  [0m [91m~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.75 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:41:58.866Z[39m[37m[22m - Hash: [1m[37m3829cc3cbb109d6d[39m[37m[22m - Time: [1m[37m1849[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.html[0m:[93m11[0m:[93m21[0m - [91merror[0m[90m TS2339: [0mProperty 'OnDeleteUser' does not exist on type 'UsersListContainerComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m       (deleteUser)="OnDeleteUser($event)"[39m[22m
+[1m[31m[7m  [0m [91m                    ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m27[0m:[93m16[0m[39m[22m
+[1m[31m    [7m27[0m   templateUrl: './users-list-container.component.html',[39m[22m
+[1m[31m    [7m  [0m [96m               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    Error occurs in the template of component UsersListContainerComponent.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m33[0m:[93m14[0m - [91merror[0m[90m TS2420: [0mClass 'UsersListContainerComponent' incorrectly implements interface 'OnDestroy'.[39m[22m
+[1m[31m  Property 'ngOnDestroy' is missing in type 'UsersListContainerComponent' but required in type 'OnDestroy'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m33[0m export class UsersListContainerComponent implements OnDestroy {[39m[22m
+[1m[31m[7m  [0m [91m             ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  [96mnode_modules/@angular/core/index.d.ts[0m:[93m6671[0m:[93m5[0m[39m[22m
+[1m[31m    [7m6671[0m     ngOnDestroy(): void;[39m[22m
+[1m[31m    [7m    [0m [96m    ~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m    'ngOnDestroy' is declared here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m55[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'OnDeleteUser'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m55[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m55[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name[39m[22m[1m[31m 'id'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m55[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                 ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m55[0m:[93m20[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m55[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m55[0m:[93m22[0m - [91merror[0m[90m TS2693: [0m'number' only refers to a type, but is being used as a value here.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m55[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                     ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m55[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m55[0m     OnDeleteUser(id: number) {[39m[22m
+[1m[31m[7m  [0m [91m                             ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m56[0m:[93m7[0m - [91merror[0m[90m TS2532: [0mObject is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m56[0m       this.usersFacade.deleteUser(id);[39m[22m
+[1m[31m[7m  [0m [91m      ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m56[0m:[93m35[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m56[0m       this.usersFacade.deleteUser(id);[39m[22m
+[1m[31m[7m  [0m [91m                                  ~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m64[0m:[93m3[0m - [91merror[0m[90m TS2304: [0mCannot find name 'ngOnDestroy'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m64[0m   ngOnDestroy() {[39m[22m
+[1m[31m[7m  [0m [91m  ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [3[39m[22m[1m[31m9m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m64[0m:[93m17[0m - [91merror[0m[90m TS1005: [0m';' expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m64[0m   ngOnDestroy() {[39m[22m
+[1m[31m[7m  [0m [91m                ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m65[0m:[93m5[0m - [91merror[0m[90m TS2532: [0mObject is possibly 'undefined'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m65[0m     this.usersFacade.filterUser({[39m[22m
+[1m[31m[7m  [0m [91m    ~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts[0m:[93m72[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m72[0m }[39m[22m
+[1m[31m[7m  [0m [91m~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.77 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:43:10.994Z[39m[37m[22m - Hash: [1m[37m0e37c27e6f7c5826[39m[37m[22m - Time: [1m[37m2770[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.82 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:43:27.965Z[39m[37m[22m - Hash: [1m[37m135788244efb6200[39m[37m[22m - Time: [1m[37m1911[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m46[0m:[93m10[0m - [91merror[0m[90m TS2339: [0mProperty 'router' does not exist on type 'UsersListFilterComponent'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m46[0m     this.router.navigate(['/admin/users'])[39m[22m
+[1m[31m[7m  [0m [91m         ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m619.85 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:44:14.804Z[39m[37m[22m - Hash: [1m[37m474b30eb7deae3b8[39m[37m[22m - Time: [1m[37m3132[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m34[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'inject'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m34[0m:[93m36[0m - [91merror[0m[90m TS2304: [0mCannot find name 'Router'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m34[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                                   ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.01 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:44:48.468Z[39m[37m[22m - Hash: [1m[37md7a57c5c4f7f6921[39m[37m[22m - Time: [1m[37m3064[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m35[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'inject'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m35[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.01 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:45:02.300Z[39m[37m[22m - Hash: [1m[37m1b7d32553ee180b0[39m[37m[22m - Time: [1m[37m1507[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m35[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'inject'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m35[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.01 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:45:18.771Z[39m[37m[22m - Hash: [1m[37m5b9466968b65e413[39m[37m[22m - Time: [1m[37m1654[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m35[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'inject'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m35[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.01 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:45:44.854Z[39m[37m[22m - Hash: [1m[37me72d42794d73ab27[39m[37m[22m - Time: [1m[37m1962[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m35[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'inject'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m35[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.02 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:45:57.244Z[39m[37m[22m - Hash: [1m[37m6ae0094aa43a528e[39m[37m[22m - Time: [1m[37m2715[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m35[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'inject'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m35[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.02 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:46:10.382Z[39m[37m[22m - Hash: [1m[37m0812a033d0456830[39m[37m[22m - Time: [1m[37m1089[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts[0m:[93m35[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'inject'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m35[0m   private readonly router = inject(Router);[39m[22m
+[1m[31m[7m  [0m [91m                            ~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m×[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:46:52.234Z[39m[37m[22m - Hash: [1m[37me876039553e5c05e[39m[37m[22m - Time: [1m[37m2200[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:48:03.195Z[39m[37m[22m - Hash: [1m[37m9a8a1cdfdc7ef5b8[39m[37m[22m - Time: [1m[37m3265[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:48:52.964Z[39m[37m[22m - Hash: [1m[37m7b2cb258e96c948b[39m[37m[22m - Time: [1m[37m1597[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:52:21.216Z[39m[37m[22m - Hash: [1m[37mf265de1ff41c25c9[39m[37m[22m - Time: [1m[37m3332[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:54:19.093Z[39m[37m[22m - Hash: [1m[37m490afca1758ec5ed[39m[37m[22m - Time: [1m[37m2277[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:55:06.840Z[39m[37m[22m - Hash: [1m[37m91153edcb6e7e113[39m[37m[22m - Time: [1m[37m1836[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.05 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:55:13.443Z[39m[37m[22m - Hash: [1m[37me9775f199a286939[39m[37m[22m - Time: [1m[37m1869[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:55:28.701Z[39m[37m[22m - Hash: [1m[37me30b70628b5cb123[39m[37m[22m - Time: [1m[37m1490[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m            [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m                     [2m | [22mruntime   [2m | [22m [96m12.62 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m               [2m | [22m[1mNames[22m     [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_users_home_src_index_ts.js[39m[37m[2m | [22musers-home[2m | [22m[96m620.07 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m4 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2023-12-02T12:58:10.613Z[39m[37m[22m - Hash: [1m[37m75a5b5788a1fbe65[39m[37m[22m - Time: [1m[37m2597[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m√[39m[37m Compiled successfully.[39m

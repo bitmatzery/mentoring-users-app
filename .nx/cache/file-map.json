@@ -272,7 +272,7 @@
         },
         {
           "file": "libs/users/home/src/lib/home/home.component.ts",
-          "hash": "9388195118421734835",
+          "hash": "16236922385930059778",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common",
@@ -841,7 +841,7 @@
         },
         {
           "file": "libs/users/users/feature-users-list/src/lib/users-list/users-list.component.ts",
-          "hash": "8060702649596686627",
+          "hash": "2522205473496725060",
           "deps": [
             "npm:@angular/core",
             "npm:@angular/common"
@@ -864,10 +864,11 @@
         },
         {
           "file": "libs/users/users/feature-users-list/src/lib/users-list-container/users-list-container.component.ts",
-          "hash": "13843688663976959435",
+          "hash": "15840419298627421793",
           "deps": [
             "npm:@angular/common",
             "npm:@angular/core",
+            "npm:@angular/router",
             "npm:@ngrx/component",
             "npm:@angular/forms",
             "users-users-data-access"
@@ -901,9 +902,10 @@
         },
         {
           "file": "libs/users/users/feature-users-list/src/lib/users-list-filter/users-list-filter.component.ts",
-          "hash": "1047607511634468595",
+          "hash": "11046672948445947",
           "deps": [
             "npm:@angular/core",
+            "npm:@angular/router",
             "npm:@angular/common",
             "npm:@angular/material",
             "npm:@angular/forms",

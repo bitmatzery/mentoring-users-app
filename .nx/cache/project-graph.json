@@ -13418,6 +13418,11 @@
       },
       {
         "source": "users-users-feature-users-list",
+        "target": "npm:@angular/router",
+        "type": "static"
+      },
+      {
+        "source": "users-users-feature-users-list",
         "target": "npm:@ngrx/component",
         "type": "static"
       },

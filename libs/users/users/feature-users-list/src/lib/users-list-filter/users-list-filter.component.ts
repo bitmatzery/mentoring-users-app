@@ -2,9 +2,11 @@ import {
   ChangeDetectionStrategy,
   Component,
   EventEmitter,
+  inject,
   Output,
   ViewEncapsulation,
 } from '@angular/core';
+import { Router } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { MatInputModule } from '@angular/material/input';
 import { MatIconModule } from '@angular/material/icon';
@@ -31,6 +33,7 @@ import { PushPipe } from '@ngrx/component';
 export class UsersListFilterComponent {
   @Output() filterUsers = new EventEmitter();
   protected filterName = '';
+  private readonly router = inject(Router);
 
   OnFiltredUsers() {
     this.filterUsers.emit({
@@ -49,5 +52,6 @@ export class UsersListFilterComponent {
       phone: this.filterName,
       company: this.filterName,
     });
+    this.router.navigate(['/home']);
   }
 }

@@ -6,10 +6,11 @@ import {
   OnDestroy,
   ViewEncapsulation,
 } from '@angular/core';
+import { Router } from '@angular/router';
 import { PushPipe } from '@ngrx/component';
 import { LetDirective } from '@ngrx/component';
 import { ReactiveFormsModule } from '@angular/forms';
-import { UsersListComponent } from '@users/feature-users-list';
+import { UsersListComponent } from '../users-list/users-list.component';
 import { UsersListContainerStore } from './users-list-container.store';
 import { UsersFacade, UsersFilter } from '@users/users/data-access';
 
@@ -30,6 +31,7 @@ import { UsersFacade, UsersFilter } from '@users/users/data-access';
   providers: [UsersListContainerStore],
 })
 export class UsersListContainerComponent implements OnDestroy {
+  private readonly router = inject(Router);
   private readonly componentStore = inject(UsersListContainerStore);
   // public readonly users$ = this.componentStore.users$;
 
@@ -40,6 +42,9 @@ export class UsersListContainerComponent implements OnDestroy {
   // Фильтрация юзеров через usersFacade в Global Store
   onFilterUsers(filterParams: UsersFilter) {
     this.usersFacade.filterUser(filterParams);
+    this.router.navigate(['/home'], {
+      queryParams: { name: filterParams.name },
+    });
   }
 
   // Фильтрация юзеров через componentStore в Global Store
@@ -47,10 +52,10 @@ export class UsersListContainerComponent implements OnDestroy {
   //   this.componentStore.filterUsers(filterParams);
   // }
 
-    // Удаление (исключение юзера) в Global Store
-    OnDeleteUser(id: number) {
-      this.usersFacade.deleteUser(id);
-    }
+  // Удаление (исключение юзера) в Global Store
+  OnDeleteUser(id: number) {
+    this.usersFacade.deleteUser(id);
+  }
 
   // Удаление (исключение юзера) в componentStore
   // OnDeleteUser(userId: number) {
