@@ -8,7 +8,7 @@ import {
 } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { UsersListVM } from './users-list-view-model';
-import { UsersListFilterComponent } from '../users-list-filter/users-list-filter.component';
+import { UsersListFilterComponent } from '@users/feature-users-list';
 
 @Component({
   selector: 'users-list-ui',

@@ -6,9 +6,8 @@ import {
   UsersFilter,
 } from '@users/users/data-access';
 import { DeepReadonly } from '@users/core/utils';
-import { UsersVM } from '../users-vm';
 import { tap } from 'rxjs/operators';
-import { usersVMAdapter } from '../users-vm.adapter';
+import { UsersVM, usersVMAdapter } from '@users/feature-users-list';
 
 export type UsersListState = DeepReadonly<{
   users: UsersVM[];

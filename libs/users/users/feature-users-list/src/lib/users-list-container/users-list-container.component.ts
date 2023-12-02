@@ -9,7 +9,7 @@ import {
 import { PushPipe } from '@ngrx/component';
 import { LetDirective } from '@ngrx/component';
 import { ReactiveFormsModule } from '@angular/forms';
-import { UsersListComponent } from '../users-list/users-list.component';
+import { UsersListComponent } from '@users/feature-users-list';
 import { UsersListContainerStore } from './users-list-container.store';
 import { UsersFacade, UsersFilter } from '@users/users/data-access';
 

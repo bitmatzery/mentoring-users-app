@@ -2,7 +2,7 @@ import { Injectable, inject } from '@angular/core';
 import { HttpClient, HttpParams, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { API_URL } from './api-url.token';
-import { UsersDTO } from '../../../../users/users/data-access/src/lib/users-dto.model';
+import { UsersDTO } from '@users/users/data-access';
 
 @Injectable({ providedIn: 'root' })
 export class ApiService {

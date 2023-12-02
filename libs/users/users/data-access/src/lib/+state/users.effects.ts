@@ -4,7 +4,7 @@ import { switchMap, catchError, of, map } from 'rxjs';
 import * as UsersActions from './users.actions';
 import { ApiService } from '@users/core/http';
 import { UsersDTO } from '../users-dto.model';
-import { usersDTOAdapter } from '../users-dto.adapter';
+import { usersDTOAdapter } from '@users/users/data-access';
 
 export const userEffects = createEffect(
   () => {
